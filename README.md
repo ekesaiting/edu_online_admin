@@ -1,4 +1,8 @@
-* **在线教育平台** 项目地址：https://github.com/ekesaiting/edu_online_admin
+## **在线教育平台** 
+
+   前台用户界面地址：https://github.com/ekesaiting/edu_online_front
+
+   后台服务地址：https://github.com/ekesaiting/edu_online
 
   参照谷粒学院完成的一个比较完整的在线教育平台项目，采用前后端分离开发，由三部分组成：前端用户界面，后台管理界面，后端服务。后台服务采用分布式架构，包含课程管理，订单管理，用户管理，权限管理，数据统计，云服务与支付等各项独立模块
   * 前端用户界面采用Nuxt解决前后端分离的SEO问题
