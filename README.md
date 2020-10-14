@@ -1,4 +1,4 @@
-## **在线教育平台** 
+## **在线教育平台-后端管理界面** 
 
    前台用户界面地址：https://github.com/ekesaiting/edu_online_front
 
